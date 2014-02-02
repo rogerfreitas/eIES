@@ -10,7 +10,7 @@ O e-IES conta com os seguintes sub-sistemas: WAC - WebAcadêmico; WAL - WebAluno
 As funcionalidades contidas no e-IES:
 
 WAC,WAL,WPR,WCO
-===============
+---------------
 
 1) IES
 
