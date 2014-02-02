@@ -7,6 +7,8 @@ Sistema de Gestão para Instituição de Ensino Superior
 
 O e-IES conta com os seguintes sub-sistemas: WAC - WebAcadêmico; WAL - WebAluno; WPR - WebProfessor; WCO - WebCoordenador; WPS - WebProcessoSeletivo; WFI - WebFinanceiro. Abaixo segue as principais funcionalidades do sistema.
 
+O conceito de "Cadastro" será ampliado e utilizado como sendo as operações conhecidas como (CRUD, Create=Criar, Read=Ler, Update=Atualizar, Delete=Apagar) e/ou uma execução de rotina de programação que irá interagir com a base de dados e/ou um sistema de pesquisa eficiente para consultar os registros envolvidos da funcionalidade. Portanto adotaremos a sigla CRUDES (Create, Read, Update, Delete, Execute, Search).
+
 WAC,WAL,WPR,WCO
 ===============
 
