@@ -3,7 +3,7 @@ e-IES
 
 Sistema de Gestão para Instituição de Ensino Superior
 
-É uma poderosa ferramenta de gestão acadêmica para IES (Instituição de Ensino Superior), seguindo todos os critérios estipulados pelo MEC (Ministério da Educação) em 2013 e pela LDB (Lei de Diretrizes e Bases da Educação Nacional - 6 Edição em 2011). Esta ferramenta é fruto de mais de 15 anos de experiência em IES por todo o Brasil de diversos profissionais comprometido com a gestão do ensino no país.
+É uma poderosa ferramenta de gestão acadêmica para IES (Instituição de Ensino Superior), que segue todos os critérios estipulados pelo MEC (Ministério da Educação) em 2013 e pela LDB (Lei de Diretrizes e Bases da Educação Nacional - 6 Edição em 2011). Esta ferramenta é fruto de mais de 15 anos de experiência em IES por todo o Brasil de diversos profissionais comprometido com a gestão do ensino no país.
 
 O e-IES conta com os seguintes sub-sistemas: WAC - WebAcadêmico; WAL - WebAluno; WPR - WebProfessor; WCO - WebCoordenador; WPS - WebProcessoSeletivo; WFI - WebFinanceiro.
 
