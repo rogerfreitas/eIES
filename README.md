@@ -26,9 +26,11 @@ Cadastro do Preço dos Cursos define o período acadêmico para início da vigê
 
 3) Disciplinas e Currículo dos Cursos
 
-Cadastro dos Currículos dos Cursos informa o período acadêmico que o currículo foi criado, se está ativo ou não, as cargas horárias mínimas optativas e da matrícula no período e relaciona para cada currículo do curso as disciplinas a serem cursadas definindo em que periodo será cursada, se é optativa ou não e Peso (Créditos da Disciplina no Currículo) que poderá ser atribuido para um posterior cálculo do rendimento do aluno.
+Cadastro dos Currículos dos Cursos informa o período acadêmico que o currículo foi criado, se está ativo ou não (Novos alunos sempre serão inseridos no currículo ativo), as cargas horárias mínimas optativas e da matrícula no período e relaciona para cada currículo do curso as disciplinas a serem cursadas definindo em que periodo será cursada, se é optativa ou não e Peso (Créditos da Disciplina no Currículo) que poderá ser atribuido para um posterior cálculo do rendimento do aluno.
 
-Cadastro da Disciplina
+Cadastro da Disciplina contém o tipo de curso que irá atender, Nome da Disciplina, Ementa, Carga Horária Teória, Carga Horária Prática e Área de Conhecimento CNPq da disciplina. Neste cadastro 
+
+
 
 
 
