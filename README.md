@@ -9,6 +9,9 @@ O e-IES conta com os seguintes sub-sistemas: WAC - WebAcadêmico; WAL - WebAluno
 
 As funcionalidades contidas no e-IES:
 
+WAC,WAL,WPR,WCO
+===============
+
 1) IES
 
 Cadastro da IES com as informações da mantida, mantenedora e contendo o código INEP da IES. O sistema permite ser utilizado por mais de uma mantida ao mesmo tempo.
@@ -66,7 +69,7 @@ Cadastro Agendamento e Horário das Pautas (Registro de Classe)
 
 8) Matricula
 
-Cadastro da Matrícula
+Realização da Matrícula
 
 Cadastro do Aluno nas Pautas (Registro de Classes)
 
@@ -128,7 +131,79 @@ Protocolo de Novo Curso Superior
 
 Protocolo de Transferência de Entrada
 
+WPS
+===
 
+11) Processo Seletivo
+
+Cadastro do Processo Seletivo
+
+Cadastro das Vagas do Processo Seletivo
+
+Cadastro do Vestibular
+
+Cadastro dos Grupos de Conhecimento
+
+12) Registro dos Inscritos do Processo Seletivo
+
+Cadastro do Inscrito no WPS e Online
+
+Cadastro das opções dos cursos
+
+Cadastro das Respostas das Questões Sócio Educacionais
+
+13) Alocação de Salas do Processo Seletivo
+
+Cadastro das Salas do Processo Seletivo
+
+Alocação das Salas por Vestibular
+
+14) Provas do Vestibular por Grupo
+
+Cadastro das Provas do Vestibular por Grupo
+
+15) Vestibular Online e Questões Sócio Educacionais
+
+Cadastro das Questões e Opções das Questões
+
+Cadastro do Vestibular Online com as Questões Selecionadas
+
+16) Respostas do Vestibular Online e Resultado Final
+
+Resposta do Vestibular Online
+
+Resultado Final do Inscrito por prova e geral 
+
+WFI
+===
+
+17) Plano de Contas
+
+18) Centro de Custo
+
+19) Registro de Clientes
+
+20) Registro de Fornecedores
+
+21) Registro de Funcionários
+
+22) Registro de Impostos
+
+23) Ocorrências
+
+24) Ordens de Pagamento
+
+25) Títulos
+
+26) Controle de Dedução e Acrescimo
+
+27) Folha de Pagamento
+
+
+ADM - Sistema de Administração
+==============================
+
+28) Administração do Sistema
 
 
 
