@@ -28,7 +28,37 @@ Cadastro do Preço dos Cursos define o período acadêmico para início da vigê
 
 Cadastro dos Currículos dos Cursos informa o período acadêmico que o currículo foi criado, se está ativo ou não (Novos alunos sempre serão inseridos no currículo ativo), as cargas horárias mínimas optativas e da matrícula no período e relaciona para cada currículo do curso as disciplinas a serem cursadas definindo em que periodo será cursada, se é optativa ou não e Peso (Créditos da Disciplina no Currículo) que poderá ser atribuido para um posterior cálculo do rendimento do aluno.
 
+Cadastro dos Pré-Requisitos das disciplinas curriculares indicam qual disciplina deverá ser cursada como predecessora a matrícula da disciplina solicitada. Também podemos ter um pré-requisito obrigatório ou não. Quando o pré-requisito não é obrigatório e a disciplina não é ofertada naquele período acadêmico o sistema desconsidera este pré-requisito.
+
 Cadastro da Disciplina contém o tipo de curso que irá atender, Nome da Disciplina, Ementa, Carga Horária Teória, Carga Horária Prática e Área de Conhecimento CNPq da disciplina. Neste cadastro também consiste da realização das equivalências entre as disciplinas que são utilizados para a matrícula e histórico escolar da currículo de entrada do aluno. A equivalência é realizada como um Somatório Produtório. Por exemplo: A disciplina X é equivalente a (disciplina Y e disciplina Z) ou (disciplina W e disciplina R), ou seja, utilizando lógica booleana, X = (Y+Z).(W+R) e numa fórmula geral podemos expressar X=Produtorio(Somatorio(Aij)).
+
+Cadastro do Preço da Disciplina contém o período acadêmico de início de vigência do preço e o preço da disciplina. Reajustes automáticos das disciplinas são permitidos, alterando todos os preço das disciplinas de um determinado tipo de curso.
+
+4) Período Acadêmico
+
+Cadastro do Período Acadêmico define a data inicial e final do período, a descrição, o ano e o semestre, além dos parâmetros para um tipo de curso. Parâmetros como o percentual máxima de faltas permitida,a nota mínima entre (0-10) ou opção de trabalhar por conceito (A,B,C,D,E), neste caso A (8-10), B(6-8), C(4-6), D(2-4) e E (0-2). A quantidade de letras no conceito pode ser alterada e a redistribuição ocorre linearmente. Neste também cadastro todos os eventos do período acadêmico, inclusive aqueles relacionados a pedidos de protocolos.
+
+5) Registro do Aluno
+
+Cadastro da Turma de Ingresso define o currículo do curso que será utilizado para os alunos nela cadastrados, o periodo acadêmico de entrada desta turma e o turno.
+
+Cadastro da Forma de Ingresso como por exemplo: Processo Seletivo, Reopção de Curso ou Novo Curso Superior. Estas forma de entrada quando indicada no cadastro do aluno deverá ser corroborado pelo seu protocolo respectivo.
+
+Cadastro do Aluno é composto pelo registro dos dados pessoais e pelo número de matrícula do aluno gerado pelo sistema. Os registros de dados pessoais são unificados para todos os subsistemas para evitar duplicidades e amarradas ao CPF. Essa tabela de dados pessoais é utilizada para Alunos, Inscritos, Clientes Pessoa Física, Professores, Administrativos e Coordenadores. E junto a ela temos além dos dados pessoais completos, telefones, endereços conforme INEP, Rede Sociais, E-mails, Registro de qualquer tipo de deficiência, Login para acesso ao sistema e documentos complementares. Caso o aluno realize um segundo curso na IES é gerado um novo registro com um novo número de matrícula, mas os dados pessoais já serão reaproveitados, não sendo necessário a relização do cadastro novamente.
+
+
+6) Registro dos Professores e Salas
+
+8) Otimização de Recursos - http://lalescu.ro/liviu/fet/ - Importação do XML
+
+9) Matricula
+
+10) 
+
+
+
+
+
 
 
 
