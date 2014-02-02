@@ -18,7 +18,7 @@ Cadastro da IES com as informações da mantida, mantenedora e contendo o códig
 
 Cadastro dos Tipo de Cursos (Graduação Presencial, Graduação a Distância, Pós Graduação Latu Sensu, Pós Graduação Stricto Sensu Mestrado, Pós Graduação Stricto Sensu Doutorado)
 
-Cadastro dos Cursos contendo todas as sua informações, como por exemplo: Nome do Curso, Habilitação, Sigla do Curso, Quantidade de Períodos, Período Máximo estipulado para Jubilamento do aluno, Centro de Custo do Curso, Código no ENADE e 
+Cadastro dos Cursos contendo todas as sua informações: Nome do Curso, Habilitação, Sigla do Curso, Quantidade de Períodos, Período Máximo estipulado para Jubilamento do aluno, Centro de Custo do Curso, Código no ENADE e 
 forma de cobrança do curso que poderá ser: Gratuito, Pago com valor fechado por Curso e Pago com a realização de Matrícula por disciplinas.
 
 Cadastro das Portarias dos Cursos, para os cursos que precisam de autoriazação e reconhecimento, contém informações Data da Portaria, Data da Publicação da Portaria, Número da Portaria, Número do Despacho, Número do Processo e do Registro Sapiens. 
