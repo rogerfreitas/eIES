@@ -3,7 +3,7 @@ e-IES
 
 Sistema de Gestão para Instituição de Ensino Superior
 
-É uma poderosa ferramenta de gestão acadêmica para IES (Instituição de Ensino Superior) localizada no Brasil, seguindo todos os critérios estipulados pelo MEC (Ministério da Educação) em 2013 e pela LDB (Lei de Diretrizes e Bases da Educação Nacional - 6 Edição em 2011). Esta ferramenta é fruto de mais de 15 anos de experiência em IES por todo o Brasil.
+É uma poderosa ferramenta de gestão acadêmica para IES (Instituição de Ensino Superior) localizada no Brasil, seguindo todos os critérios estipulados pelo MEC (Ministério da Educação) em 2013 e pela LDB (Lei de Diretrizes e Bases da Educação Nacional - 6 Edição em 2011). Esta ferramenta é fruto de mais de 15 anos de experiência em IES por todo o Brasil de diversos profissionais comprometido com a gestão do ensino no país.
 
 O e-IES conta com os seguintes sub-sistemas: WAC - WebAcadêmico; WAL - WebAluno; WPR - WebProfessor; WCO - WebCoordenador; WPS - WebProcessoSeletivo; WFI - WebFinanceiro.
 
@@ -34,9 +34,13 @@ Cadastro da Disciplina contém o tipo de curso que irá atender, Nome da Discipl
 
 Cadastro do Preço da Disciplina contém o período acadêmico de início de vigência do preço e o preço da disciplina. Reajustes automáticos das disciplinas são permitidos, alterando todos os preço das disciplinas de um determinado tipo de curso.
 
+Cadastro do Programa da Disciplina contém o programa, os objetivos, recursos, forma de avaliação, BiBliografia e se está ativo ou não. A disciplina poderá ter diversos programas, mas apenas um ativo.
+
 4) Período Acadêmico
 
-Cadastro do Período Acadêmico define a data inicial e final do período, a descrição, o ano e o semestre, além dos parâmetros para um tipo de curso. Parâmetros como o percentual máxima de faltas permitida,a nota mínima entre (0-10) ou opção de trabalhar por conceito (A,B,C,D,E), neste caso A (8-10), B(6-8), C(4-6), D(2-4) e E (0-2). A quantidade de letras no conceito pode ser alterada e a redistribuição ocorre linearmente. Neste também cadastro todos os eventos do período acadêmico, inclusive aqueles relacionados a pedidos de protocolos.
+Cadastro do Período Acadêmico define a data inicial e final do período, a descrição, o ano e o semestre, além dos parâmetros para um tipo de curso. Parâmetros como o percentual máxima de faltas permitida,a nota mínima entre (0-10) ou opção de trabalhar por conceito (A,B,C,D,E), neste caso A (8-10), B(6-8), C(4-6), D(2-4) e E (0-2). A quantidade de letras no conceito pode ser alterada e a redistribuição ocorre linearmente. Neste também cadastro todos os eventos do período acadêmico, inclusive intervalos de datas relacionados a pedidos de protocolos.
+
+Cadastro do SAP (Situação do Aluno no Período)
 
 5) Registro do Aluno
 
@@ -49,11 +53,84 @@ Cadastro do Aluno é composto pelo registro dos dados pessoais e pelo número de
 
 6) Registro dos Professores e Salas
 
-8) Otimização de Recursos - http://lalescu.ro/liviu/fet/ - Importação do XML
+Cadastro do Professor
 
-9) Matricula
+Cadastro das Salas
 
-10) 
+
+7) Otimização de Recursos - http://lalescu.ro/liviu/fet/ - Importação do XML
+
+Cadastro das Pautas (Registro de Classe)
+
+Cadastro Agendamento e Horário das Pautas (Registro de Classe)
+
+8) Matricula
+
+Cadastro da Matrícula
+
+Cadastro do Aluno nas Pautas (Registro de Classes)
+
+9) Controle de Pautas (Registro de Classe)
+
+Cadastro da Frequência
+
+Cadastro do Grupo de Avaliações
+
+Cadastro das Avaliações
+
+Cadastro do Acompanhamento
+
+10) Protocolos
+
+Protocolo de Amparo Legal
+
+Protocolo de Transferência Saída
+
+Protocolo de Desligamento
+
+Protocolo de Trancamento
+
+Protocolo de Reopção de Curso
+
+Protocolo de Desistência de Curso
+
+Protocolo de Jubilamento
+
+Protocolo de Abandono
+
+Protocolo de Aproveitamento de Estudo
+
+Protocolo de Colação de Grau
+
+Protocolo de Registro de Diploma
+
+Protocolo de Provas Substitutivas
+
+Protocolo de Revisão de Nota
+
+Protocolo de Aluno Especial
+
+Protocolo de Solicitação de Documentos
+
+Protocolo de Revisão de Dados Cadastrais
+
+Protocolo de Revisão de Histórico Escolar
+
+Protocolo de Monografia, Dissertação e Teses
+
+Protocolo de Bolsas
+
+Protocolo de Solicitação de Matrícula
+
+Protocolo de Processo Seletivo
+
+Protocolo de Novo Curso Superior
+
+Protocolo de Transferência de Entrada
+
+
+
+
 
 
 
