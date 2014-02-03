@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<applications>
+	<application name="HelloWorld">
+		<view location="ac0">
+			<actions>
+				<Forms>
+					<Form action="save" class="br.com.inovece.eies.bussiness.dto.SecLoginDTO" />
+					<Form action="delete" class="br.com.inovece.eies.bussiness.dto.SecLoginDTO" />
+				</Forms>
+				<List name="getData" class="br.com.inovece.eies.controller.service.SecLoginDelegate" 
+									 DTO="br.com.inovece.eies.bussiness.dto.SecLoginDTO" />
+				<Execute class="br.com.inovece.eies.controller.action.SecLoginAction"    />
+			</actions> 
+		</view>
+		<view location="up" default="true">
+			<actions>
+				<Forms>
+					<Form action="save" class="br.com.inovece.eies.bussiness.dto.SecGrupoDTO" />
+					<Form action="delete" class="br.com.inovece.eies.bussiness.dto.SecGrupoDTO" />
+				</Forms>
+				<List name="getData" class="br.com.inovece.eies.controller.service.SecGrupoDelegate" 
+									 DTO="br.com.inovece.eies.bussiness.dto.SecGrupoDTO" />
+				<Execute class="br.com.inovece.eies.controller.action.SecGrupoAction"    />
+			</actions> 
+		</view>
+		<view location="c">
+			<actions>
+				<Forms>
+					<Form action="save" class="br.com.inovece.eies.bussiness.dto.SecGrupoLoginDTO" />
+					<Form action="delete" class="br.com.inovece.eies.bussiness.dto.SecGrupoLoginDTO" />
+				</Forms>
+				<List name="getData" class="br.com.inovece.eies.controller.service.SecGrupoLoginDelegate" 
+								DTO="br.com.inovece.eies.bussiness.dto.SecGrupoLoginDTO" />
+				<Execute class="br.com.inovece.eies.controller.action.SecGrupoLoginAction" />
+			</actions> 
+		</view>
+	</application>
+</applications>
