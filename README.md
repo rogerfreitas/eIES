@@ -12,11 +12,11 @@ O conceito de "Cadastro" será ampliado e utilizado como sendo as operações co
 WAC,WAL,WPR,WCO
 ===============
 
-1) IES
+1) IES (WAC)
 
 Cadastro da IES com as informações da mantida, mantenedora e contendo o código INEP da IES. O sistema permite ser utilizado por mais de uma mantida ao mesmo tempo.
 
-2) Cursos
+2) Cursos (WAC)
 
 Cadastro dos Tipo de Cursos (Graduação Presencial, Graduação a Distância, Pós Graduação Latu Sensu, Pós Graduação Stricto Sensu Mestrado, Pós Graduação Stricto Sensu Doutorado)
 
@@ -27,7 +27,7 @@ Cadastro das Portarias dos Cursos, para os cursos que precisam de autoriazação
 
 Cadastro do Preço dos Cursos define o período acadêmico para início da vigência do preço, o preço do curso e o número de parcelas para pagamento. Somente os Cursos com a forma de cobrança (Pago com valor fechado por Curso) utilizarão estes registros.
 
-3) Disciplinas e Currículo dos Cursos
+3) Disciplinas e Currículo dos Cursos (WAC)
 
 Cadastro dos Currículos dos Cursos informa o período acadêmico que o currículo foi criado, se está ativo ou não (Novos alunos sempre serão inseridos no currículo ativo), as cargas horárias mínimas optativas e da matrícula no período e relaciona para cada currículo do curso as disciplinas a serem cursadas definindo em que periodo será cursada, se é optativa ou não e Peso (Créditos da Disciplina no Currículo) que poderá ser atribuido para um posterior cálculo do rendimento do aluno.
 
@@ -39,13 +39,13 @@ Cadastro do Preço da Disciplina contém o período acadêmico de início de vig
 
 Cadastro do Programa da Disciplina contém o programa, os objetivos, recursos, forma de avaliação, BiBliografia e se está ativo ou não. A disciplina poderá ter diversos programas, mas apenas um ativo.
 
-4) Período Acadêmico
+4) Período Acadêmico (WAC)
 
 Cadastro do Período Acadêmico define a data inicial e final do período, a descrição, o ano e o semestre, além dos parâmetros para um tipo de curso. Parâmetros como o percentual máxima de faltas permitida,a nota mínima entre (0-10) ou opção de trabalhar por conceito (A,B,C,D,E), neste caso A (8-10), B(6-8), C(4-6), D(2-4) e E (0-2). A quantidade de letras no conceito pode ser alterada e a redistribuição ocorre linearmente. Neste também cadastro todos os eventos do período acadêmico, inclusive intervalos de datas relacionados a pedidos de protocolos.
 
 Cadastro do SAP (Situação do Aluno no Período)
 
-5) Registro do Aluno
+5) Registro do Aluno (WAC)
 
 Cadastro da Turma de Ingresso define o currículo do curso que será utilizado para os alunos nela cadastrados, o periodo acadêmico de entrada desta turma e o turno.
 
@@ -54,7 +54,7 @@ Cadastro da Forma de Ingresso como por exemplo: Processo Seletivo, Reopção de 
 Cadastro do Aluno é composto pelo registro dos dados pessoais e pelo número de matrícula do aluno gerado pelo sistema. Os registros de dados pessoais são unificados para todos os subsistemas para evitar duplicidades e amarradas ao CPF. Essa tabela de dados pessoais é utilizada para Alunos, Inscritos, Clientes Pessoa Física, Professores, Administrativos e Coordenadores. E junto a ela temos além dos dados pessoais completos, telefones, endereços conforme INEP, Rede Sociais, E-mails, Registro de qualquer tipo de deficiência, Login para acesso ao sistema e documentos complementares. Caso o aluno realize um segundo curso na IES é gerado um novo registro com um novo número de matrícula, mas os dados pessoais já serão reaproveitados, não sendo necessário a relização do cadastro novamente.
 
 
-6) Registro dos Recursos
+6) Registro dos Recursos (WAC)
 
 Cadastro do Professor possui o registro dos dados pessoais, o número de matrícula do professor e a URL do curriculo lattes. Como é de comume exigência do MEC que os professores universitários possuam o curriculum cadastrado no lattes, não há sentindo duplicar esta informação para dentro do sistema.
 
@@ -62,28 +62,30 @@ Cadastro do Professor possui o registro dos dados pessoais, o número de matríc
 Cadastro das Salas possui o registro das Salas que serão utilizadas na criação das Pautas (Registro de Classe).
 
 
-7) Otimização de Recursos - http://lalescu.ro/liviu/fet/ - Importação do XML
+7) Otimização de Recursos - http://lalescu.ro/liviu/fet/ - Importação do XML (WAC)
 
 FET é um software livre aberto para programar automáticamente um calendário para uma faculdade/universidade. Utiliza um algoritmo rápido e eficiente para resolver o problema "TimeTable" de otimização. O FET está sob uma licença GNU GPL. O arquivo de saída do FET é uma arquio lido pelo sistema para evitar a inserção manual.
 
 Cadastro das Pautas (Registro de Classe) - Apesar do sistema pertimir a importação do arquivo XML do FET, o que é aconselhável para o exercício da otimização dos recursos. Muitas IES, simplesmente realizam a alocação dos recursos seguindo os seus próprios critérios, portanto o sistema permite a inserção manual das pautas, onde pode definir-se o professor responsável pela pauta, a disciplina, o período acadêmico, o número de vagas, a situação da pauta, se está fechada ou não, e os horários das pautas, podendo ser alocado professores diferentes, como professores substitutos e auxiliares durante a informação do agendamento e horário das pautas.
 
-8) Matricula
+8) Matricula (WAC,WAL)
 
-Realização da Matrícula é um dos processos mais importante para IES, já que neste momento associamos um aluno a uma pauta. O conceito de matrícula (Primeira matrícula) e re-matrícula (Matrícula nos próximos períodos letivos) é o mesmo para o sistema. Alguns cursos são realizados em diversos períodos letivos e outros apenas em um período letivo e isto define a quantidade de matrícula que será necessária para a conclusão do curso. Por exemplo: Num curso de graduação de 5 anos, composto por 10 períodos letivos, caso o aluno não reprove em nenhuma pauta, o sistema irá realizar 10 matrículas ao longo da realização do curso. No entanto, se for um curso de extensão de 6 meses, o mesmo poderá ser realizado em um único período, mesmo que ele possua três disciplinas sequenciais, por exemplo. Neste caso o sistema irá realizar 1 matrícula. Nesta funcionalidade o sistema registra o aluno, o período e a situação da matrícula, juntamente com a inserção do registro do aluno na pauta que poderá ser feito pelo aluno (WAL) ou pela secretaria acadêmica(WAC) . Quando o módulo financeiro é ativado junto com o módulo acadêmico, é neste momento que o aluno torna-se Cliente e as suas ocorrências (mensalidades) são geradas conforme pré configuração no sistema financeiro, sendo importante também fazer uma pré verificação nos protocolos de Bolsas no acadêmico.
+Realização da Matrícula é um dos processos mais importante para IES, já que neste momento associamos um aluno a uma pauta. O conceito de matrícula (Primeira matrícula) e re-matrícula (Matrícula nos próximos períodos letivos) é o mesmo para o sistema. Alguns cursos são realizados em diversos períodos letivos e outros apenas em um período letivo e isto define a quantidade de matrícula que será necessária para a conclusão do curso. Por exemplo: Num curso de graduação de 5 anos, composto por 10 períodos letivos, caso o aluno não reprove em nenhuma pauta, o sistema irá realizar 10 matrículas ao longo da realização do curso. No entanto, se for um curso de extensão de 6 meses, o mesmo poderá ser realizado em um único período, mesmo que ele possua três disciplinas sequenciais, por exemplo. Neste caso o sistema irá realizar 1 matrícula. Nesta funcionalidade o sistema registra o aluno, o período e a situação da matrícula, juntamente com a inserção do registro do aluno na pauta que poderá ser feito pelo aluno (WAL) ou pela secretaria acadêmica (WAC) . Quando o módulo financeiro é ativado junto com o módulo acadêmico, é neste momento que o aluno torna-se Cliente e as suas ocorrências (mensalidades) são geradas conforme pré configuração no sistema financeiro (WFI), sendo importante também fazer uma pré verificação nos protocolos de Bolsas no acadêmico.
 
 
-9) Controle de Pautas (Registro de Classe)
+9) Controle de Pautas (Registro de Classe) - Início do Período Letivo (WAC, WPR, WAL)
 
-Cadastro da Frequência
+No sistema WAC é possível realizar o controle de todas as pautas no sistema, no entanto no WPR os professores só possuem acesso a pauta que está relacionada ao seu cadastro para realizar o controle.
 
-Cadastro do Grupo de Avaliações
+Cadastro da Frequência - O sistema WPR possui uma avançada tela de frequência que permite que o professor faça a sua chamada em sala de aula seja pelo pc, notebook ou mobile. Esta funcionalidade também poderá ser utilizada pelo WAC,WCO para verificação. O Aluno pelo WAL possui acesso somente ao seu próprio controle de frequência.
 
-Cadastro das Avaliações
+Cadastro do Grupo de Avaliações - O Grupo de Avaliações é definido de acordo com os critérios acadêmicos da IES e servem apenas para agrupar avaliações durante um período acadêmico.
 
-Cadastro do Acompanhamento
+Cadastro das Avaliações e Notas - O sistema permite que seja cadastrado quantas avaliações for o critério do professor e permite o lançamento das notas ou abanar ou registrar a falta de cada uma delas. A média da pauta é calculado através de média ponderada, através de pesos definidos no cadastro da avaliação. Esta funcionalidade também poderá ser utilizada pelo WAC,WCO para verificação. O Aluno pelo WAL possui acesso somente ao sua própria nota.
 
-10) Protocolos
+Cadastro do Acompanhamento - Como de praxe em registro de classes o professor deverá registrar o conteúdo ministrada na aula planejada para aquela pauta naquele determinado horário da pauta pelo WPR. Esta funcionalidade também poderá ser utilizada pelo WAC,WCO para verificação.
+
+10) Protocolos (WAC, WAL)
 
 Protocolo de Amparo Legal
 
