@@ -54,24 +54,24 @@ Cadastro da Forma de Ingresso como por exemplo: Processo Seletivo, Reopção de 
 Cadastro do Aluno é composto pelo registro dos dados pessoais e pelo número de matrícula do aluno gerado pelo sistema. Os registros de dados pessoais são unificados para todos os subsistemas para evitar duplicidades e amarradas ao CPF. Essa tabela de dados pessoais é utilizada para Alunos, Inscritos, Clientes Pessoa Física, Professores, Administrativos e Coordenadores. E junto a ela temos além dos dados pessoais completos, telefones, endereços conforme INEP, Rede Sociais, E-mails, Registro de qualquer tipo de deficiência, Login para acesso ao sistema e documentos complementares. Caso o aluno realize um segundo curso na IES é gerado um novo registro com um novo número de matrícula, mas os dados pessoais já serão reaproveitados, não sendo necessário a relização do cadastro novamente.
 
 
-6) Registro dos Professores e Salas
+6) Registro dos Recursos
 
-Cadastro do Professor
+Cadastro do Professor possui o registro dos dados pessoais, o número de matrícula do professor e a URL do curriculo lattes. Como é de comume exigência do MEC que os professores universitários possuam o curriculum cadastrado no lattes, não há sentindo duplicar esta informação para dentro do sistema.
 
-Cadastro das Salas
+
+Cadastro das Salas possui o registro das Salas que serão utilizadas na criação das Pautas (Registro de Classe).
 
 
 7) Otimização de Recursos - http://lalescu.ro/liviu/fet/ - Importação do XML
 
-Cadastro das Pautas (Registro de Classe)
+FET é um software livre aberto para programar automáticamente um calendário para uma faculdade/universidade. Utiliza um algoritmo rápido e eficiente para resolver o problema "TimeTable" de otimização. O FET está sob uma licença GNU GPL. O arquivo de saída do FET é uma arquio lido pelo sistema para evitar a inserção manual.
 
-Cadastro Agendamento e Horário das Pautas (Registro de Classe)
+Cadastro das Pautas (Registro de Classe) - Apesar do sistema pertimir a importação do arquivo XML do FET, o que é aconselhável para o exercício da otimização dos recursos. Muitas IES, simplesmente realizam a alocação dos recursos seguindo os seus próprios critérios, portanto o sistema permite a inserção manual das pautas, onde pode definir-se o professor responsável pela pauta, a disciplina, o período acadêmico, o número de vagas, a situação da pauta, se está fechada ou não, e os horários das pautas, podendo ser alocado professores diferentes, como professores substitutos e auxiliares durante a informação do agendamento e horário das pautas.
 
 8) Matricula
 
-Realização da Matrícula
+Realização da Matrícula é um dos processos mais importante para IES, já que neste momento associamos um aluno a uma pauta. O conceito de matrícula (Primeira matrícula) e re-matrícula (Matrícula nos próximos períodos letivos) é o mesmo para o sistema. Alguns cursos são realizados em diversos períodos letivos e outros apenas em um período letivo e isto define a quantidade de matrícula que será necessária para a conclusão do curso. Por exemplo: Num curso de graduação de 5 anos, composto por 10 períodos letivos, caso o aluno não reprove em nenhuma pauta, o sistema irá realizar 10 matrículas ao longo da realização do curso. No entanto, se for um curso de extensão de 6 meses, o mesmo poderá ser realizado em um único período, mesmo que ele possua três disciplinas sequenciais, por exemplo. Neste caso o sistema irá realizar 1 matrícula. Nesta funcionalidade o sistema registra o aluno, o período e a situação da matrícula, juntamente com a inserção do registro do aluno na pauta que poderá ser feito pelo aluno (WAL) ou pela secretaria acadêmica(WAC) . Quando o módulo financeiro é ativado junto com o módulo acadêmico, é neste momento que o aluno torna-se Cliente e as suas ocorrências (mensalidades) são geradas conforme pré configuração no sistema financeiro, sendo importante também fazer uma pré verificação nos protocolos de Bolsas no acadêmico.
 
-Cadastro do Aluno nas Pautas (Registro de Classes)
 
 9) Controle de Pautas (Registro de Classe)
 
