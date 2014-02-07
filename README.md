@@ -87,21 +87,23 @@ Cadastro do Acompanhamento - Como de praxe em registro de classes o professor de
 
 10) Protocolos (WAC, WAL)
 
-Protocolo de Amparo Legal
+Todos os protocolos possuem em comum os seguintes campos: Número do Protocolo, o Aluno, o Período Acadêmico, Tipo do Protocolo, Data de Abertura, Data de Fechamento, Deferimento (S/N) e o texto de análise. Também é permitido anexar qualquer arquivo junto ao registro do protocolo, na intenção de protocolar arquivos escaneados e autenticados pela secretaria acadêmica.
 
-Protocolo de Transferência Saída
+Protocolo de Amparo Legal (Altera o SAP do Aluno para "AL") - 
 
-Protocolo de Desligamento
+Protocolo de Transferência Saída (Altera o SAP do Aluno para "TR")
 
-Protocolo de Trancamento
+Protocolo de Desligamento (Altera o SAP do Aluno para "DL")
 
-Protocolo de Reopção de Curso
+Protocolo de Trancamento (Altera o SAP do Aluno para "TC")
 
-Protocolo de Desistência de Curso
+Protocolo de Reopção de Curso (Altera o SAP do Aluno para "RC")
 
-Protocolo de Jubilamento
+Protocolo de Desistência de Curso (Altera o SAP do Aluno para "DC")
 
-Protocolo de Abandono
+Protocolo de Jubilamento (Altera o SAP do Aluno para "JB")
+
+Protocolo de Abandono (Altera o SAP do Aluno para "AB")
 
 Protocolo de Aproveitamento de Estudo
 
