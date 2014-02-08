@@ -12,8 +12,8 @@ O conceito de "Cadastro" será ampliado e utilizado como sendo as operações co
 WAC,WAL,WPR,WCO
 ===============
 
-1) IES (WAC)
-------------
+**1) IES (WAC)**
+
 *Cadastro da IES* com as informações da mantida, mantenedora e contendo o código INEP da IES. O sistema permite ser utilizado por mais de uma mantida ao mesmo tempo.
 
 **2) Cursos (WAC)**
@@ -98,9 +98,9 @@ No sistema WAC é possível realizar o controle de todas as pautas no sistema, n
 
 Todos os protocolos possuem em comum os seguintes campos: Número do Protocolo, o Aluno, o Período Acadêmico, Tipo do Protocolo, Data de Abertura, Data de Fechamento, Deferimento (S/N) e o texto de análise. Também é permitido anexar qualquer arquivo junto ao registro do protocolo, na intenção de protocolar arquivos escaneados e autenticados pela secretaria acadêmica.
 
-Protocolo de Amparo Legal (Altera o SAP do Aluno para "AL")- Este protocolo permite o trancamento (interrupção) dos estudos do aluno por período indeterminado conforme Lei ou regimento interno estabelecido. São exemplos de amparo legal: 
+**Protocolo de Amparo Legal (Altera o SAP do Aluno para "AL")**- Este protocolo permite o trancamento (interrupção) dos estudos do aluno por período indeterminado conforme Lei ou regimento interno estabelecido. São exemplos de amparo legal: 
 
-Amparo à Gestante
+*Amparo à Gestante*
 Quem pode solicitar:
 Aluna regular, a partir do 8º mês de gestação.
 Quando pode solicitar: 
@@ -109,7 +109,7 @@ Documentos necessários:
 Fase 1 - Atestado médico indicando o mês de gestação em que a aluna se encontra.
 Fase 2 - Certidão de Nascimento e Atestado médico.
 
-Amparo à Afecções congênitas
+*Amparo à Afecções congênitas*
 Quem pode solicitar:
 Alunos merecedores de tratamento excepcional ou procurador mediante uma cópia do documento de identidade do aluno e uma autorização. Nessa autorização deve estar escrito o nome do procurador o seu CPF ou RG, os dados do aluno (nome, matrícula, RG) e ainda a assinatura do aluno que coincida com a assinada no seu documento de identidade.
 Quando pode solicitar:
@@ -120,49 +120,50 @@ Laudo médico e cópia do documento de identidade
 Outros tipos de Amparo Legais poderão ser permitido conforme regimento interno, Lei ou mandato judicial. Quando o aluno retornar para os estudos o protocolo deverá informar o período acadêmico de retorno, e desta forma o SAP do aluno retorna para a situação NM (Não Matriculado) permitindo que o mesmo realize novamente a matrícula no período acadêmico vigente.
 
 
-Protocolo de Transferência Saída (Altera o SAP do Aluno para "TR")
+**Protocolo de Transferência Saída (Altera o SAP do Aluno para "TR")**
 
-Protocolo de Desligamento (Altera o SAP do Aluno para "DL")
 
-Protocolo de Trancamento (Altera o SAP do Aluno para "TC")
+**Protocolo de Desligamento (Altera o SAP do Aluno para "DL")**
 
-Protocolo de Reopção de Curso (Altera o SAP do Aluno para "RC")
+**Protocolo de Trancamento (Altera o SAP do Aluno para "TC")**
 
-Protocolo de Desistência de Curso (Altera o SAP do Aluno para "DC")
+**Protocolo de Reopção de Curso (Altera o SAP do Aluno para "RC")**
 
-Protocolo de Jubilamento (Altera o SAP do Aluno para "JB")
+**Protocolo de Desistência de Curso (Altera o SAP do Aluno para "DC")**
 
-Protocolo de Abandono (Altera o SAP do Aluno para "AB")
+**Protocolo de Jubilamento (Altera o SAP do Aluno para "JB")**
 
-Protocolo de Aproveitamento de Estudo
+**Protocolo de Abandono (Altera o SAP do Aluno para "AB")**
 
-Protocolo de Colação de Grau
+**Protocolo de Aproveitamento de Estudo**
 
-Protocolo de Registro de Diploma
+**Protocolo de Colação de Grau**
 
-Protocolo de Provas Substitutivas
+**Protocolo de Registro de Diploma**
 
-Protocolo de Revisão de Nota
+**Protocolo de Provas Substitutivas**
 
-Protocolo de Aluno Especial
+**Protocolo de Revisão de Nota**
 
-Protocolo de Solicitação de Documentos
+**Protocolo de Aluno Especial**
 
-Protocolo de Revisão de Dados Cadastrais
+**Protocolo de Solicitação de Documentos**
 
-Protocolo de Revisão de Histórico Escolar
+**Protocolo de Revisão de Dados Cadastrais**
 
-Protocolo de Monografia, Dissertação e Teses
+**Protocolo de Revisão de Histórico Escolar**
 
-Protocolo de Bolsas
+**Protocolo de Monografia, Dissertação e Teses**
 
-Protocolo de Solicitação de Matrícula
+**Protocolo de Bolsas**
 
-Protocolo de Processo Seletivo
+**Protocolo de Solicitação de Matrícula**
 
-Protocolo de Novo Curso Superior
+**Protocolo de Processo Seletivo**
 
-Protocolo de Transferência de Entrada
+**Protocolo de Novo Curso Superior**
+
+**Protocolo de Transferência de Entrada**
 
 WPS
 ===
