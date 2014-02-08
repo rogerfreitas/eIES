@@ -33,7 +33,7 @@ forma de cobrança do curso que poderá ser: Gratuito, Pago com valor fechado po
 
 *Cadastro dos Pré-Requisitos das disciplinas curriculares* indicam qual disciplina deverá ser cursada como predecessora a matrícula da disciplina solicitada. Também podemos ter um pré-requisito obrigatório ou não. Quando o pré-requisito não é obrigatório e a disciplina não é ofertada naquele período acadêmico o sistema desconsidera este pré-requisito.
 
-*Cadastro da Disciplina* contém o tipo de curso que irá atender, Nome da Disciplina, Ementa, Carga Horária Teória, Carga Horária Prática e Área de Conhecimento CNPq da disciplina. Neste cadastro também consiste da realização das equivalências entre as disciplinas que são utilizados para a matrícula e histórico escolar da currículo de entrada do aluno. A equivalência é realizada como um Somatório Produtório. Por exemplo: A disciplina X é equivalente a (disciplina Y e disciplina Z) ou (disciplina W e disciplina R), ou seja, utilizando lógica booleana, X = (Y+Z).(W+R) e numa fórmula geral podemos expressar X=Produtorio(Somatorio(Aij)).
+*Cadastro da Disciplina* contém o tipo de curso que irá atender, Nome da Disciplina, Ementa, Carga Horária Teória, Carga Horária Prática e Área de Conhecimento CNPq da disciplina. Neste cadastro também consiste da realização das equivalências entre as disciplinas que são utilizados para a matrícula e histórico escolar da currículo de entrada do aluno. A equivalência é realizada como um Produtório Somatório. Por exemplo: A disciplina X é equivalente a (disciplina Y e disciplina Z) ou (disciplina W e disciplina R), ou seja, utilizando lógica booleana, X = (Y+Z).(W+R) e numa fórmula geral podemos expressar X=Produtorio(Somatorio(Aij)).
 
 *Cadastro do Preço da Disciplina* contém o período acadêmico de início de vigência do preço e o preço da disciplina. Reajustes automáticos das disciplinas são permitidos, alterando todos os preço das disciplinas de um determinado tipo de curso.
 
@@ -117,15 +117,14 @@ A qualquer tempo (solicitação não vinculada ao Calendário Acadêmico).
 Documentos necessários:
 Laudo médico e cópia do documento de identidade
 
-Outros tipos de Amparo Legais poderão ser permitido conforme regimento interno, Lei ou mandato judicial. Quando o aluno retornar para os estudos o protocolo deverá informar o período acadêmico de retorno, e desta forma o SAP do aluno retorna para a situação NM (Não Matriculado) permitindo que o mesmo realize novamente a matrícula no período acadêmico vigente.
+Outros tipos de Amparo Legais poderão ser permitido conforme regimento interno, Lei ou mandato judicial. Quando o aluno retornar para os estudos o protocolo deverá informar o período acadêmico de retorno,e desta forma o SAP do aluno retorna para a situação NM (Não Matriculado) permitindo que o mesmo realize novamente a matrícula no período acadêmico vigente.
 
 
-**Protocolo de Transferência Saída (Altera o SAP do Aluno para "TR")**
+**Protocolo de Transferência Saída (Altera o SAP do Aluno para "TR")** - Este protocolo é solicitado pelo aluno em intervalos registrados no calendário acadêmico ou em qualquer momento para sair da IES atual e ser transferido para outra IES a qual poderá ou não ser informado na solicitação de protocolo. Este protocolo torna o aluno inativo para a IES atual. Normalmente a IES de destino solicita a IES atual diversas informações que poderá tramitar eletronicamente através de autenticidade digital ou em meio físico, conforme regimento interno.
 
+**Protocolo de Desligamento (Altera o SAP do Aluno para "DL")** - Este protocolo é solicitado pelo aluno para sair da IES atual em intervalos registrados no calendário acadêmico ou em qualquer momento. Este protocolo torna o aluno inativo para a IES atual.
 
-**Protocolo de Desligamento (Altera o SAP do Aluno para "DL")**
-
-**Protocolo de Trancamento (Altera o SAP do Aluno para "TC")**
+**Protocolo de Trancamento (Altera o SAP do Aluno para "TC")** - Este protocolo é solicitado pelo aluno em intervalos registrados no calendário acadêmico ou em qualquer momento, e permite o trancamento (interrupção) dos estudos do aluno por período determinado nos parâmetros acadêmicos. Dentro do intervalo do trancamento o aluno poderá retornar aos estudos e deverá ser informado o período acadêmico de retorno, 
 
 **Protocolo de Reopção de Curso (Altera o SAP do Aluno para "RC")**
 
