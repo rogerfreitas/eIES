@@ -89,7 +89,27 @@ Cadastro do Acompanhamento - Como de praxe em registro de classes o professor de
 
 Todos os protocolos possuem em comum os seguintes campos: Número do Protocolo, o Aluno, o Período Acadêmico, Tipo do Protocolo, Data de Abertura, Data de Fechamento, Deferimento (S/N) e o texto de análise. Também é permitido anexar qualquer arquivo junto ao registro do protocolo, na intenção de protocolar arquivos escaneados e autenticados pela secretaria acadêmica.
 
-Protocolo de Amparo Legal (Altera o SAP do Aluno para "AL") - 
+Protocolo de Amparo Legal (Altera o SAP do Aluno para "AL") - Este protocolo permite o trancamento (interrupção) dos estudos do aluno por período indeterminado conforme Lei ou regimento interno estabelecido. São exemplos de amparo legal: 
+
+Amparo à Gestante
+Quem pode solicitar:
+Aluna regular, a partir do 8º mês de gestação.
+Quando pode solicitar: 
+A qualquer tempo (solicitação não vinculada ao Calendário Acadêmico).
+Documentos necessários:
+Fase 1 - Atestado médico indicando o mês de gestação em que a aluna se encontra.
+Fase 2 - Certidão de Nascimento e Atestado médico.
+
+Amparo à Afecções congênitas
+Quem pode solicitar:
+Alunos merecedores de tratamento excepcional ou procurador mediante uma cópia do documento de identidade do aluno e uma autorização. Nessa autorização deve estar escrito o nome do procurador o seu CPF ou RG, os dados do aluno (nome, matrícula, RG) e ainda a assinatura do aluno que coincida com a assinada no seu documento de identidade.
+Quando pode solicitar:
+A qualquer tempo (solicitação não vinculada ao Calendário Acadêmico).
+Documentos necessários:
+Laudo médico e cópia do documento de identidade
+
+Outros tipos de Amparo Legais poderão ser permitido conforme regimento interno, Lei ou mandato judicial. Quando o aluno retornar para os estudos o protocolo deverá informar o período acadêmico de retorno, e desta forma o SAP do aluno retorna para a situação NM (Não Matriculado) permitindo que o mesmo realize novamente a matrícula no período acadêmico vigente.
+
 
 Protocolo de Transferência Saída (Altera o SAP do Aluno para "TR")
 
