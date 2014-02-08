@@ -134,9 +134,9 @@ Outros tipos de Amparo Legais poderão ser permitido conforme regimento interno,
 
 **Protocolo de Abandono (Altera o SAP do Aluno para "AB")** - Este protocolo é realizado pelo sistema em intervalos registrados no calendário acadêmico quando o aluno não realiza a matrícula no período acadêmico vigente. Tornando a situação do Aluno de "NM" para "AB". O Aluno ainda está ativo se estiver dentro da quantidade de períodos aceitáveis definido nos parâmetros acadêmicos. Caso contrário o sistema abrirá o protocolo de Desligamento "DL".
 
-**Protocolo de Aproveitamento de Estudo** - 
+**Protocolo de Aproveitamento de Estudo** - Este protocolo é solicitado pelo aluno para obter dispensa de disicplinas no currículo ativo do curso, as disciplinas similares ou idênticas podem ter sido cursadas ou dentro da IES atual ou mesmo em outra IES. Normalmente esta análise e deferimento é realizada pelo coordenador de curso. Um protocolo permite solicitar N disciplinas, no entanto, o deferimento portanto ocorrer para cada disciplina. O deferimento negativo do protocolo só ocorre quando todas as disciplinas solicitadas são negadas. As disciplinas deferidas positivamente neste protocolo são exibidas no momento da matrícula e no histórico escolar do aluno como "AE".
 
-**Protocolo de Colação de Grau**
+**Protocolo de Colação de Grau** - 
 
 **Protocolo de Registro de Diploma**
 
