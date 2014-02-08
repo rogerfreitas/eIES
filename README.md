@@ -122,19 +122,19 @@ Outros tipos de Amparo Legais poderão ser permitido conforme regimento interno,
 
 **Protocolo de Transferência Saída (Altera o SAP do Aluno para "TR")** - Este protocolo é solicitado pelo aluno em intervalos registrados no calendário acadêmico ou em qualquer momento para sair da IES atual e ser transferido para outra IES a qual poderá ou não ser informado na solicitação de protocolo. Este protocolo torna o aluno inativo para a IES atual. Normalmente a IES de destino solicita a IES atual diversas informações que poderá tramitar eletronicamente através de autenticidade digital ou em meio físico, conforme regimento interno.
 
-**Protocolo de Desligamento (Altera o SAP do Aluno para "DL")** - Este protocolo é solicitado pelo aluno para sair da IES atual em intervalos registrados no calendário acadêmico ou em qualquer momento. Este protocolo torna o aluno inativo para a IES atual.
+**Protocolo de Desligamento (Altera o SAP do Aluno para "DL")** - Este protocolo é realizado pelo sistema em intervalos registrados no calendário acadêmico quando o aluno extrapola os limites determinados de abandonos estabelecidos no regimento intero e definido nos parâmetros acadêmicos. Este protocolo torna o aluno inativo para a IES atual.
 
-**Protocolo de Trancamento (Altera o SAP do Aluno para "TC")** - Este protocolo é solicitado pelo aluno em intervalos registrados no calendário acadêmico ou em qualquer momento, e permite o trancamento (interrupção) dos estudos do aluno por período determinado nos parâmetros acadêmicos. Dentro do intervalo do trancamento o aluno poderá retornar aos estudos e deverá ser informado o período acadêmico de retorno, 
+**Protocolo de Trancamento (Altera o SAP do Aluno para "TC")** - Este protocolo é solicitado pelo aluno em intervalos registrados no calendário acadêmico ou em qualquer momento, e permite o trancamento (interrupção) dos estudos do aluno por período determinado nos parâmetros acadêmicos. Dentro do intervalo do trancamento o aluno poderá retornar aos estudos e deverá ser informado o período acadêmico de retorno, e desta forma o SAP do aluno retorna para a situação NM (Não Matriculado) permitindo que o mesmo realize novamente a matrícula no período acadêmico vigente.
 
-**Protocolo de Reopção de Curso (Altera o SAP do Aluno para "RC")**
+**Protocolo de Reopção de Curso (Altera o SAP do Aluno para "RC")** - Este protocolo é solicitado pelo aluno para transfência de curso dentro da IES atual em intervalos registrados no calendário acadêmico ou em qualquer momento. Este protocolo torna o aluno (matricula atual) inativo para a IES atual. E desta forma um novo número de matrícula é gerado para o cadastro do aluno quando o mesmo é deferido pela IES. Com este novo número de matrícula, o aluno deverá solicitar protocolos de Aproveitamento de Estudos das disciplinas similares cursadas no curso anterior e realizar a matrícula no novo curso.
 
-**Protocolo de Desistência de Curso (Altera o SAP do Aluno para "DC")**
+**Protocolo de Desistência de Curso (Altera o SAP do Aluno para "DC")** - Este protocolo é solicitado pelo aluno para sair da IES atual em intervalos registrados no calendário acadêmico ou em qualquer momento. Este protocolo torna o aluno inativo para a IES atual.
 
-**Protocolo de Jubilamento (Altera o SAP do Aluno para "JB")**
+**Protocolo de Jubilamento (Altera o SAP do Aluno para "JB")** - Este protocolo é realizado pelo sistema em intervalos registrados no calendário acadêmico quando o aluno extrapola os limites determinados de periodos acadêmicos estabelecidos no regimento intero e definido nos parâmetros acadêmicos. Este protocolo torna o aluno inativo para a IES atual.
 
-**Protocolo de Abandono (Altera o SAP do Aluno para "AB")**
+**Protocolo de Abandono (Altera o SAP do Aluno para "AB")** - Este protocolo é realizado pelo sistema em intervalos registrados no calendário acadêmico quando o aluno não realiza a matrícula no período acadêmico vigente. Tornando a situação do Aluno de "NM" para "AB". O Aluno ainda está ativo se estiver dentro da quantidade de períodos aceitáveis definido nos parâmetros acadêmicos. Caso contrário o sistema abrirá o protocolo de Desligamento "DL".
 
-**Protocolo de Aproveitamento de Estudo**
+**Protocolo de Aproveitamento de Estudo** - 
 
 **Protocolo de Colação de Grau**
 
