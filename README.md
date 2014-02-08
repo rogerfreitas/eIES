@@ -12,8 +12,8 @@ O conceito de "Cadastro" será ampliado e utilizado como sendo as operações co
 WAC,WAL,WPR,WCO
 ===============
 
-**1) IES (WAC)**
-
+1) IES (WAC)
+------------
 *Cadastro da IES* com as informações da mantida, mantenedora e contendo o código INEP da IES. O sistema permite ser utilizado por mais de uma mantida ao mesmo tempo.
 
 **2) Cursos (WAC)**
