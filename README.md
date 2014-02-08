@@ -136,7 +136,7 @@ Outros tipos de Amparo Legais poderão ser permitido conforme regimento interno,
 
 **Protocolo de Aproveitamento de Estudo** - Este protocolo é solicitado pelo aluno para obter dispensa de disicplinas no currículo ativo do curso, as disciplinas similares ou idênticas podem ter sido cursadas ou dentro da IES atual ou mesmo em outra IES. Normalmente esta análise e deferimento é realizada pelo coordenador de curso. Um protocolo permite solicitar N disciplinas, no entanto, o deferimento portanto ocorrer para cada disciplina. O deferimento negativo do protocolo só ocorre quando todas as disciplinas solicitadas são negadas. As disciplinas deferidas positivamente neste protocolo são exibidas no momento da matrícula e no histórico escolar do aluno como "AE".
 
-**Protocolo de Colação de Grau** - 
+**Protocolo de Colação de Grau** - Este protocolo é solicitado pelo aluno em intervalos registrados no calendário acadêmico ou em qualquer momento no seu último período acadêmico para a realiazação da colação de grau, onde defini-se o local, data e hora do evento e em qual período acdêmico houve este pedido. Algumas verificações são realizadas pelo sistema, como o cumprimento da carga horário mínima obrigatória e das optativas, contabilizando as disciplinas do período acadêmico vigente como aprovadas.
 
 **Protocolo de Registro de Diploma**
 
