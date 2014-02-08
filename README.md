@@ -138,13 +138,13 @@ Outros tipos de Amparo Legais poderão ser permitido conforme regimento interno,
 
 **Protocolo de Colação de Grau** - Este protocolo é solicitado pelo aluno em intervalos registrados no calendário acadêmico ou em qualquer momento no seu último período acadêmico para a realiazação da colação de grau, onde defini-se o local, data e hora do evento e em qual período acdêmico houve este pedido. Algumas verificações são realizadas pelo sistema, como o cumprimento da carga horário mínima obrigatória e das optativas, contabilizando as disciplinas do período acadêmico vigente como aprovadas.
 
-**Protocolo de Registro de Diploma**
+**Protocolo de Registro de Diploma** - Este protocolo é solicitado pelo aluno em intervalos registrados no calendário acadêmico e após o protocolo de Colação de Grau, para oficializar o pedido da confeção de Diploma que pode ser realizado na própria IES se for Centro Universitário autorizado pelo MEC ou servir como registro de pedido da IES para o centro universitário que emitirá o diploma.
 
-**Protocolo de Provas Substitutivas**
+**Protocolo de Provas Substitutivas** - Este protocolo é solicitado pelo aluno em qualquer momento quando uma das avaliações registradas pelo professor é perdida por motivos justificáveis. Este protocolo é respondido pelo próprio professor deferindo positivamente ou negativamente. Se o deferimento do professor for positivo o professor informa a data e hora da aplicação da prova e registra a nota assim que a avaliação for corrigida. Substituindo a nota da avaliação que o aluno faltou.
 
-**Protocolo de Revisão de Nota**
+**Protocolo de Revisão de Nota** - Este protocolo é solicitado pelo aluno em qualquer momento quando o mesmo não concorda com a nota aplicada pelo professor da disciplina e a avaliação em questão precisa ser informada no protocolo. Este protocolo é encaminhado ao coordenador do curso para que junto a uma comissão da disciplina reavalie a avaliação e realize o deferimento, alterando ou não, a nota da avaliação. Aconselha-se escanear a avaliação junto ao protocolo para que o tramite eletrônico aconteça.
 
-**Protocolo de Aluno Especial**
+**Protocolo de Aluno Especial** - 
 
 **Protocolo de Solicitação de Documentos**
 
