@@ -152,11 +152,11 @@ Outros tipos de Amparo Legais poderão ser permitido conforme regimento interno,
 
 **Protocolo de Revisão de Histórico Escolar** - Este protocolo é solicitado por um aluno a qualquer momento para a secretaria acadêmica para que seja resolvido qualquer problema com os dados do histórico escolar.
 
-**Protocolo de Monografia, Dissertação e Teses** - 
+**Protocolo de Monografia, Dissertação e Teses** - Este protocolo é utilizado pela secretaria acadêmica em qualquer momento para registrar as monografias, dissertações e teses apresentadas na IES. Contém também o campo do professor orientador e/ou co-orientador que deverá ser professor da IES, o título da monografia e os professores da banca. Toda a documentação da monografia utilizada poderá ser escaneada, como as atas e as avaliações. Além da própria monografia, por exemplo em PDF, além da própria apresentação sendo anexadas ao protocolo.
 
-**Protocolo de Bolsas**
+**Protocolo de Bolsas** - Este protocolo é utilizado pela secretaria acadêmica em qualquer momento para registrar as bolsas que serão concedida para os alunos em cada periodo acadêmico. Os Tipos de Bolsas são previamente cadastradas pela secretaria acadêmica, e em cada protocolo é informado o percentual, o tipo de incidência e se o desconto será aplicado sobre as disciplina repetidas pelo aluno. Esta informação é sincronizada com o controle de desconto no WFI.
 
-**Protocolo de Solicitação de Matrícula**
+**Protocolo de Solicitação de Matrícula** - 
 
 **Protocolo de Processo Seletivo**
 
