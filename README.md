@@ -171,7 +171,7 @@ WPS
 
 *Cadastro do Processo Seletivo* - Neste cadastro é informado o período letivo acadêmico do Processo Seletivo, a descrição e o peso do Enem.
 
-*Cadastro do Vestibular* - Para cada Processo Seletivo poderá ser criado N Vestibulares até que a quantidade de vagas sejam preenchidas. Neste registro do Vestibular define-se Data inicial e final de inscrição, data da prova, o link do manual do candidato, valor da inscrição e o prazo em dias do vencimento do título para pagamento.
+*Cadastro do Vestibular* - Para cada Processo Seletivo poderá ser criado N Vestibulares até que a quantidade de vagas sejam preenchidas. Neste registro do Vestibular define-se Data inicial e final de inscrição, data da prova, locais da prova, o link do manual do candidato, valor da inscrição e o prazo em dias do vencimento do título para pagamento.
 
 *Cadastro das Vagas do Vestibular* - Para cada curso define-se o número de vagas no vestibular ativo do processo seletivo. Caso durante o processo de chamada de matrícula de alunos o número de vagas não forem preenchidas, outros vestibulares podem ser realizados com as vagas remanescentes.
 
@@ -179,21 +179,25 @@ WPS
 
 **12) Registro dos Inscritos do Processo Seletivo**
 
+A funcionalidade do Registro dos Inscritos possuirá o CRUDE completo dentro WPS para manipulação dos usuários. No entanto, para que o formulário de inscrição do processo seletivo funcione no site da IES é necessário apontar o link do arquivo do formulário (.../eies/aberto/inscricaops.cfm) como iframe no site da IES.
+
 *Cadastro do Inscrito no WPS* - O Cadastro do inscrito é composto pelo registro pessoal do inscrito. Os registros de dados pessoais são unificados para todos os subsistemas para evitar duplicidades e amarradas ao CPF. É informado o Vestibular, a forma de inscrição e gerado o  Número do Inscrito. Outras informações são posteriormente inseridas como: A Sala da realização da prova, nota do ENEM, Nota Final, Data Pagamento, Turno e se o inscrito faltou ou não no dia da prova.
 
-*Cadastro das opções dos cursos* -
+*Cadastro das opções dos cursos* - Após a realização dos dados do cadastro do inscrito, junto com a mesma funcionalidade o inscrito seleciona as 3 opções de cursos desejada em ordem.
 
-*Cadastro das Respostas das Questões Sócio Educacionais* - 
+*Cadastro das Respostas das Questões Sócio Educacionais* - Quando o vestibular habilitar as questões sócio educacionais após a realização do cadastro de inscrito e das opções dos cursos, o incrito poderá responder as perguntas ativas cadastradas como Perguntas Sócio Educacionais.
 
 **13) Alocação de Salas do Processo Seletivo**
 
-*Cadastro das Salas do Processo Seletivo* -
+*Cadastro dos Locais do Vestibular* - Em muitas ocasiões o vestibular pode ser realizado em mais de um local físico e desta forma o sistema permite que os locais sejam cadastrados. Um vestibular pode ter N locais.
 
-*Alocação das Salas por Vestibular* -
+*Cadastro das Salas do Vestibular* - Para cada local de vestibular cadastrado, é possível cadastrar as salas do vestibular informando a descrição, a sigla, a capacidade e se está ativa ou não.
+
+*Alocação das Salas por Vestibular* - Está funcionalidade permite que os inscritos por grupo de conhecimento ocupe as salas selecionadas, gerando listas por ordem alfabética por sala. Esta distribuição é informado no cadastro do inscrito.
 
 **14) Provas do Vestibular por Grupo**
 
-*Cadastro das Provas do Vestibular por Grupo* -
+*Cadastro das Provas do Vestibular por Grupo* - 
 
 **15) Vestibular Online e Questões Sócio Educacionais**
 
