@@ -183,7 +183,7 @@ A funcionalidade do Registro dos Inscritos possuirá o CRUDES completo dentro WP
 
 *Cadastro do Inscrito no WPS* - O Cadastro do inscrito é composto pelo registro pessoal do inscrito. Os registros de dados pessoais são unificados para todos os subsistemas para evitar duplicidades e amarradas ao CPF. É informado o Vestibular, a forma de inscrição e gerado o  Número do Inscrito. Outras informações são posteriormente inseridas como: A Sala da realização da prova, nota do ENEM, Nota Final, Data Pagamento, Turno e se o inscrito faltou ou não no dia da prova.
 
-*Cadastro das opções dos cursos* - Após a realização dos dados do cadastro do inscrito, junto com a mesma funcionalidade o inscrito seleciona as 3 opções de cursos desejada em ordem.
+*Cadastro das opções dos cursos* - Após a realização dos dados do cadastro do inscrito, junto com a mesma funcionalidade o inscrito seleciona as 3 opções de cursos desejada em ordem. Desde que os cursos sejam do mesmo grupo de conhecimento.
 
 *Cadastro das Respostas das Questões Sócio Educacionais* - Quando o vestibular habilitar as questões sócio educacionais após a realização do cadastro de inscrito e das opções dos cursos, o incrito poderá responder as perguntas ativas cadastradas como Perguntas Sócio Educacionais.
 
@@ -197,19 +197,21 @@ A funcionalidade do Registro dos Inscritos possuirá o CRUDES completo dentro WP
 
 **14) Provas do Vestibular por Grupo**
 
-*Cadastro das Provas do Vestibular por Grupo* - Está é a funcionalidade que a Prova do Vestibular é gerada, informando para qual grupo de conhecimento, matéria, vestibular, Nota mínima de aprovação, Nota máxima, O arquivo TXT da leitura do cartão resposta e do gabarito (quando a prova for executada em papel) e os campos do Vestibular Online e a data hora inicial e final da prova (quando a prova fro executada on line).
+*Cadastro das Provas do Vestibular por Grupo* - Está é a funcionalidade que a Prova do Vestibular é gerada, informando para qual grupo de conhecimento, matéria, vestibular, Nota mínima de aprovação, Nota máxima, O arquivo TXT da leitura do cartão resposta e do gabarito (quando a prova for executada em papel) e os campos do Vestibular Online e a data hora inicial e final da prova (quando a prova for executada online).
 
 **15) Vestibular Online e Questões Sócio Educacionais**
 
-*Cadastro das Questões e Opções das Questões* -
+*Cadastro das Questões e Opções das Questões* - Esta funcionalidade ser para registrar as questões utilizadas para o vestibular online para as respostas das perguntas sócio educacionais do registro do inscrito. Para registra basta informar a matéria (senão for pergunta sócio educacional), enunciado, se está ativa ou não, se é uma pergunta sócio educacional ou não, e a quantidade de opções. E em seguida informar as opções da pergunta e informar a resposta correta.
 
-*Cadastro do Vestibular Online com as Questões Selecionadas* -
+*Cadastro do Vestibular Online com as Questões Selecionadas* - Para cada vestibular online é necessário informar a matéria e em seguida selecionar as questões desejadas para o vestibular, formando assim a prova online da matéria. Um vestibular online está ligado a uma prova do vestibular.
 
 **16) Respostas do Vestibular Online e Resultado Final**
 
-*Resposta do Vestibular Online* -
+*Resposta do Vestibular Online* - No vestibular online, o inscrito precisará logar com o seu número de inscrito e com o seu CPF no endereço (.../eies/aberto/vestibularonline.cfm) para que o sistema organize a sua prova do vestibular (Vestibular Online) das matérias que fazem do grupo de conhecimento. O sistema exibe uma questão por página para que o inscrito marque a opção correta.
 
-*Resultado Final do Inscrito por prova e geral* -
+*Notas dos Inscritos* - Na funcionalidade de lançamento de notas, podemos lançar as notas manual por cada matéria por inscrito de um determinado vestibular. Ou receber os cartões respostas (prova no papel), carregar o arquivo TXT das respostas, informar o gabarito e a numeração das questões para cada matéria. Ou ainda simplesmente importar o resultado do Vestibular online com um click.
+
+*Resultado Final do Inscrito por prova e geral* - No final necessitamos de uma lista de resultados do vestibular, seja executado em papel ou online, com o critério de ordenação seja por curso, considerando 1, 2 e 3 opção. Para que seja exportado em excel para ser divulgado e formatado a critério da IES.
 
 
 WFI
