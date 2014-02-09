@@ -207,38 +207,37 @@ WPS
 
 *Resultado Final do Inscrito por prova e geral*
 
-\\teste
 
 WFI
 ===
 
-17) Plano de Contas
+**17) Plano de Contas**
 
-18) Centro de Custo
+**18) Centro de Custo**
 
-19) Registro de Clientes
+**19) Registro de Clientes**
 
-20) Registro de Fornecedores
+**20) Registro de Fornecedores**
 
-21) Registro de Funcionários
+**21) Registro de Funcionários**
 
-22) Registro de Impostos
+**22) Registro de Impostos**
 
-23) Ocorrências
+**23) Ocorrências**
 
-24) Ordens de Pagamento
+**24) Ordens de Pagamento**
 
-25) Títulos
+**25) Títulos**
 
-26) Controle de Dedução e Acrescimo
+**26) Controle de Dedução e Acrescimo**
 
-27) Folha de Pagamento
+**27) Folha de Pagamento**
 
 
 ADM - Sistema de Administração
 ==============================
 
-28) Administração do Sistema
+**28) Administração do Sistema**
 
 
 
