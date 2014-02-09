@@ -169,43 +169,43 @@ WPS
 
 **11) Processo Seletivo**
 
-*Cadastro do Processo Seletivo*
+*Cadastro do Processo Seletivo* - Neste cadastro é informado o período letivo acadêmico do Processo Seletivo, a descrição e o peso do Enem.
 
-*Cadastro das Vagas do Processo Seletivo*
+*Cadastro do Vestibular* - Para cada Processo Seletivo poderá ser criado N Vestibulares até que a quantidade de vagas sejam preenchidas. Neste registro do Vestibular define-se Data inicial e final de inscrição, data da prova, o link do manual do candidato, valor da inscrição e o prazo em dias do vencimento do título para pagamento.
 
-*Cadastro do Vestibular*
+*Cadastro das Vagas do Vestibular* - Para cada curso define-se o número de vagas no vestibular ativo do processo seletivo. Caso durante o processo de chamada de matrícula de alunos o número de vagas não forem preenchidas, outros vestibulares podem ser realizados com as vagas remanescentes.
 
-*Cadastro dos Grupos de Conhecimento*
+*Cadastro dos Grupos de Conhecimento* - As provas são agrupadas por área de conhecimento para cada processo seletivo. Por exemplo: Agrárias / Biológicas / Exatas / Humanas e etc. Para cada Grupo de Conhecimento N os cursos do WAC e para cada processo seletivo existe N Grupos de Conhecimento.
 
 **12) Registro dos Inscritos do Processo Seletivo**
 
-*Cadastro do Inscrito no WPS e Online*
+*Cadastro do Inscrito no WPS* - O Cadastro do inscrito é composto pelo registro pessoal do inscrito. Os registros de dados pessoais são unificados para todos os subsistemas para evitar duplicidades e amarradas ao CPF. É informado o Vestibular, a forma de inscrição e gerado o  Número do Inscrito. Outras informações são posteriormente inseridas como: A Sala da realização da prova, nota do ENEM, Nota Final, Data Pagamento, Turno e se o inscrito faltou ou não no dia da prova.
 
-*Cadastro das opções dos cursos*
+*Cadastro das opções dos cursos* -
 
-*Cadastro das Respostas das Questões Sócio Educacionais*
+*Cadastro das Respostas das Questões Sócio Educacionais* - 
 
 **13) Alocação de Salas do Processo Seletivo**
 
-*Cadastro das Salas do Processo Seletivo*
+*Cadastro das Salas do Processo Seletivo* -
 
-*Alocação das Salas por Vestibular*
+*Alocação das Salas por Vestibular* -
 
 **14) Provas do Vestibular por Grupo**
 
-*Cadastro das Provas do Vestibular por Grupo*
+*Cadastro das Provas do Vestibular por Grupo* -
 
 **15) Vestibular Online e Questões Sócio Educacionais**
 
-*Cadastro das Questões e Opções das Questões*
+*Cadastro das Questões e Opções das Questões* -
 
-*Cadastro do Vestibular Online com as Questões Selecionadas*
+*Cadastro do Vestibular Online com as Questões Selecionadas* -
 
 **16) Respostas do Vestibular Online e Resultado Final**
 
-*Resposta do Vestibular Online*
+*Resposta do Vestibular Online* -
 
-*Resultado Final do Inscrito por prova e geral*
+*Resultado Final do Inscrito por prova e geral* -
 
 
 WFI
