@@ -156,56 +156,58 @@ Outros tipos de Amparo Legais poderão ser permitido conforme regimento interno,
 
 **Protocolo de Bolsas** - Este protocolo é utilizado pela secretaria acadêmica em qualquer momento para registrar as bolsas que serão concedida para os alunos em cada periodo acadêmico. Os Tipos de Bolsas são previamente cadastradas pela secretaria acadêmica, e em cada protocolo é informado o percentual, o tipo de incidência e se o desconto será aplicado sobre as disciplina repetidas pelo aluno. Esta informação é sincronizada com o controle de desconto no WFI.
 
-**Protocolo de Solicitação de Matrícula** - 
+**Protocolo de Solicitação de Matrícula** - Este protocolo é utilizado pelo aluno durante o processo de matrícula para solicitar uma matrícula que não esteja disponível nos parâmetros de uma matrícula automática (onde o próprio aluno poderia escolher). Por exemplo, quando a matrícula possui um conflito de horário ou quebra de pré-requisito a mesma pode ser solicitada como protocolo e encaminhada ao coordenador do cursos para o deferimento positivo ou negativo. Caso o deferimento seja positivo, o sistema realiza a matrícula automaticamente, caso contrário retorna a situação para o aluno solcitando que a matrícula seja realizada novamente seguindo os parâmetro indicados pelo coordenador de curso.
 
-**Protocolo de Processo Seletivo**
+**Protocolo de Processo Seletivo** - Este protocolo é utilizado pela secretaria durante o cadastro do aluno para registrar o processo seletivo do Aluno que pode ter sido realizado pelo WPS na própria IES ou em outra IES. Neste protocolo é informado a IES, Ano de Conclusão do Ensino Médio, Instituição de Ensino Médio, Ano da Realização do Processo seletivo, pontos do Processo Seletivo. Esta informação é utilizado no Histórico Escolar do aluno.
 
-**Protocolo de Novo Curso Superior**
+**Protocolo de Novo Curso Superior** - Este protocolo é utilizado pela secretaria durante o cadastro do aluno quando a forma de ingresso ocorre como um novo curso superior, onde é informado o Curso Anterior e a IES do Curso Anterior, além de todos os documentos comprobatórios anexados ao protocolo, como: Diplomas, Certificados, Declarações e etc.
 
-**Protocolo de Transferência de Entrada**
+**Protocolo de Transferência de Entrada** - Este protocolo é utilizado pela secretaria durante o cadastro do aluno quando a forma de ingresso ocorre como transferência vindo de outra IES, onde é informado o Curso de Origem e a IES de Origem, além de todos os documentos comprobatórios anexados ao protocolo, como: Diplomas, Certificados, Declarações e etc.
 
 WPS
 ===
 
-11) Processo Seletivo
+**11) Processo Seletivo**
 
-Cadastro do Processo Seletivo
+*Cadastro do Processo Seletivo*
 
-Cadastro das Vagas do Processo Seletivo
+*Cadastro das Vagas do Processo Seletivo*
 
-Cadastro do Vestibular
+*Cadastro do Vestibular*
 
-Cadastro dos Grupos de Conhecimento
+*Cadastro dos Grupos de Conhecimento*
 
-12) Registro dos Inscritos do Processo Seletivo
+**12) Registro dos Inscritos do Processo Seletivo**
 
-Cadastro do Inscrito no WPS e Online
+*Cadastro do Inscrito no WPS e Online*
 
-Cadastro das opções dos cursos
+*Cadastro das opções dos cursos*
 
-Cadastro das Respostas das Questões Sócio Educacionais
+*Cadastro das Respostas das Questões Sócio Educacionais*
 
-13) Alocação de Salas do Processo Seletivo
+**13) Alocação de Salas do Processo Seletivo**
 
-Cadastro das Salas do Processo Seletivo
+*Cadastro das Salas do Processo Seletivo*
 
-Alocação das Salas por Vestibular
+*Alocação das Salas por Vestibular*
 
-14) Provas do Vestibular por Grupo
+**14) Provas do Vestibular por Grupo**
 
-Cadastro das Provas do Vestibular por Grupo
+*Cadastro das Provas do Vestibular por Grupo*
 
-15) Vestibular Online e Questões Sócio Educacionais
+**15) Vestibular Online e Questões Sócio Educacionais**
 
-Cadastro das Questões e Opções das Questões
+*Cadastro das Questões e Opções das Questões*
 
-Cadastro do Vestibular Online com as Questões Selecionadas
+*Cadastro do Vestibular Online com as Questões Selecionadas*
 
-16) Respostas do Vestibular Online e Resultado Final
+**16) Respostas do Vestibular Online e Resultado Final**
 
-Resposta do Vestibular Online
+*Resposta do Vestibular Online*
 
-Resultado Final do Inscrito por prova e geral 
+*Resultado Final do Inscrito por prova e geral*
+
+\\teste
 
 WFI
 ===
