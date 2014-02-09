@@ -179,7 +179,7 @@ WPS
 
 **12) Registro dos Inscritos do Processo Seletivo**
 
-A funcionalidade do Registro dos Inscritos possuirá o CRUDE completo dentro WPS para manipulação dos usuários. No entanto, para que o formulário de inscrição do processo seletivo funcione no site da IES é necessário apontar o link do arquivo do formulário (.../eies/aberto/inscricaops.cfm) como iframe no site da IES.
+A funcionalidade do Registro dos Inscritos possuirá o CRUDES completo dentro WPS para manipulação dos usuários. No entanto, para que o formulário de inscrição do processo seletivo funcione no site da IES é necessário apontar o link do arquivo do formulário (.../eies/aberto/inscricaops.cfm) como iframe no site da IES.
 
 *Cadastro do Inscrito no WPS* - O Cadastro do inscrito é composto pelo registro pessoal do inscrito. Os registros de dados pessoais são unificados para todos os subsistemas para evitar duplicidades e amarradas ao CPF. É informado o Vestibular, a forma de inscrição e gerado o  Número do Inscrito. Outras informações são posteriormente inseridas como: A Sala da realização da prova, nota do ENEM, Nota Final, Data Pagamento, Turno e se o inscrito faltou ou não no dia da prova.
 
@@ -197,7 +197,7 @@ A funcionalidade do Registro dos Inscritos possuirá o CRUDE completo dentro WPS
 
 **14) Provas do Vestibular por Grupo**
 
-*Cadastro das Provas do Vestibular por Grupo* - 
+*Cadastro das Provas do Vestibular por Grupo* - Está é a funcionalidade que a Prova do Vestibular é gerada, informando para qual grupo de conhecimento, matéria, vestibular, Nota mínima de aprovação, Nota máxima, O arquivo TXT da leitura do cartão resposta e do gabarito (quando a prova for executada em papel) e os campos do Vestibular Online e a data hora inicial e final da prova (quando a prova fro executada on line).
 
 **15) Vestibular Online e Questões Sócio Educacionais**
 
