@@ -144,15 +144,15 @@ Outros tipos de Amparo Legais poderão ser permitido conforme regimento interno,
 
 **Protocolo de Revisão de Nota** - Este protocolo é solicitado pelo aluno em qualquer momento quando o mesmo não concorda com a nota aplicada pelo professor da disciplina e a avaliação em questão precisa ser informada no protocolo. Este protocolo é encaminhado ao coordenador do curso para que junto a uma comissão da disciplina reavalie a avaliação e realize o deferimento, alterando ou não, a nota da avaliação. Aconselha-se escanear a avaliação junto ao protocolo para que o tramite eletrônico aconteça.
 
-**Protocolo de Aluno Especial** - 
+**Protocolo de Aluno Especial** - Este protocolo é solicitado por um aluno em intervalos registrados no calendário acadêmico que deseja assistir como ouvinte uma disciplina oferecida por um dos cursos da IES. O aluno se for de outra IES precisa ser cadastro como aluno numa turma de ingresso de alunos especiais gerando um número de matrícula. Caso já seja aluno da IES basta selecionar o aluno no protocolo. O nome do aluno será constado na pauta (diário de classe) como aluno especial. A disciplina não constará em seu histórico escolar.
 
-**Protocolo de Solicitação de Documentos**
+**Protocolo de Solicitação de Documentos** - Este protocolo é solicitado por um aluno em qualquer momento solicitando todos os tipos documentos que foram cadastrado pela Secretaria Acadêmica no cadastro de Tipos de Documentos. Para cada documento é informado a forma de entrega, a autenticidade digital e a data de entrega.
 
-**Protocolo de Revisão de Dados Cadastrais**
+**Protocolo de Revisão de Dados Cadastrais** - Este protocolo é solicitado por um aluno a qualquer momento para a secretaria acadêmica para que seja resolvido qualquer problema com os seus dados cadastrais. No caso de documentos oficiais, qualquer correção deverá ser acompanhada com a apresentação de seu original a secretaria acadêmica.
 
-**Protocolo de Revisão de Histórico Escolar**
+**Protocolo de Revisão de Histórico Escolar** - Este protocolo é solicitado por um aluno a qualquer momento para a secretaria acadêmica para que seja resolvido qualquer problema com os dados do histórico escolar.
 
-**Protocolo de Monografia, Dissertação e Teses**
+**Protocolo de Monografia, Dissertação e Teses** - 
 
 **Protocolo de Bolsas**
 
