@@ -253,7 +253,7 @@ Na administração do Sistema a tabela de dados pessoais é utilizada para Aluno
 
 *Permissão de Acesso* - Cadastro das permissões de cada grupo em cada uma das funcionalidades, informando os acessos aos CRUDES (CREATE, READ, UPDATE, DELETE, EXECUTE, SEARCH).
 
-*Log dos CRUD* - Esta funcionalidade registra as operações de CRUD da tabela.
+*Log dos CRUD* - Esta funcionalidade registra as operações de CRUD da tabela indicada pelo desenvolvedor.
 
 
 
