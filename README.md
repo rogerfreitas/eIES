@@ -243,7 +243,18 @@ WFI
 ADM - Sistema de Administração
 ==============================
 
-**28) Administração do Sistema**
+**28) Administração do Sistema** 
+
+Na administração do Sistema a tabela de dados pessoais é utilizada para Alunos, Inscritos, Clientes Pessoa Física, Professores, Administrativos e Coordenadores. E junto a ela temos além dos dados pessoais completos, telefones, endereços conforme INEP, Rede Sociais, E-mails, Registro de qualquer tipo de deficiência, Login para acesso ao sistema e documentos complementares.
+
+*Cadastro de Funcionalidades* - Cadastro da descrição de cada funcionalidade do sistema. As funcionalidades são registros já pré-inseridos no sistema de acordo com a evolução do aplicativo.
+
+*Grupos de Acesso* - Cadastro dos grupos de acessos ao sistema. N Pessoa pode estar em M Grupos.
+
+*Permissão de Acesso* - Cadastro das permissões de cada grupo em cada uma das funcionalidades, informando os acessos aos CRUDES (CREATE, READ, UPDATE, DELETE, EXECUTE, SEARCH).
+
+*Log dos CRUD* - Esta funcionalidade registra as operações de CRUD da tabela.
+
 
 
 
